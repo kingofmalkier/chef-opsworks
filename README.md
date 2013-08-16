@@ -28,4 +28,4 @@ Now that you have your Chef Repository ready to go, check out [Learn Chef](https
 
 Added By Josh
 -------------
-Testing *branching.*
+Testing *conflicts.*
