@@ -19,6 +19,7 @@ Vagrant.configure("2") do |config|
 
   # This can be set to the host name you wish the guest machine to have. Vagrant
   # will automatically execute the configuration necessary to make this happen.
+  # With chef provisioning, this will automatically become the node name.
   config.vm.hostname = "kingofmalkier-starter"
 
   # Create a forwarded port mapping which allows access to a specific port
